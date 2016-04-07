@@ -1,0 +1,35 @@
+body {
+ margin: 0;
+}
+
+#header {
+  background-color: #366175;
+}
+
+#logo {
+ margin-top: 10px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+#DAP {
+  margin-top: 5%;
+  width: 30%;
+  margin-bottom: 2%;
+}
+
+h3 {
+  color: #FFF;
+  font-style: italic;
+  font-weight: 200;
+  font-family: Choplin;
+    src: url("Choplin-ExtraLight-DEMO.otf");
+}
+.container {
+  margin-top: 30px;
+}
+
+.jumbotron {
+  width: 100%;
+  border-radius: -10px;
+}
